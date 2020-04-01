@@ -1,0 +1,10 @@
+Beer1 5%
+Beer2 5%
+Beer3 5%
+Beer4 5%
+Beer5 5%
+Beer6 5%
+Beer7 5%
+Beer8 5%
+Beer9 5%
+Beer10 5%

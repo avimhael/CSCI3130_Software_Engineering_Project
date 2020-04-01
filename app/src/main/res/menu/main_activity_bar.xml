@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/alcohol_button"
+        app:showAsAction="ifRoom"
+        android:title="Alcohol"
+        android:icon="@drawable/beer_mug"
+        />
+    <item
+        android:id="@+id/all_product_button"
+        app:showAsAction="ifRoom"
+        android:title="All Products"
+        android:icon="@drawable/all_products_icon"
+        />
+    <item
+        android:id="@+id/cannabis_button"
+        app:showAsAction="ifRoom"
+        android:title="Cannabis"
+        android:icon="@drawable/cannabis_leaf"
+        />
+
+</menu>
+
